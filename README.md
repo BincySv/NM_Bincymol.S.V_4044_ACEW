@@ -1,19 +1,19 @@
-Project Title:
-Car Rental Application with Django Framework
+# Project Title:
+## Car Rental Application with Django Framework
 
-Project implemented by:
+### Project implemented by:
 
-Name: Bincymol.S.V
+#### Name: Bincymol.S.V
 
-ID: au960221104044
+#### ID: au960221104044
 
-College Name: Arunachala College of Engineering for Women
+#### College Name:  Arunachala College of Engineering for Women
 
-Login Credintials:
+#### Login Credintials:
 
-Username:admin123
+#### Username:  admin123
 
-Password:admin123
+#### Password:   admin123
 
 
 
